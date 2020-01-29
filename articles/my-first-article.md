@@ -1,6 +1,6 @@
 ---
 title: My First Article
-image: https://source.unsplash.com/random/1
+image: /uploads/random-1.jpeg
 abstract: |-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 author: Mario Rossi
